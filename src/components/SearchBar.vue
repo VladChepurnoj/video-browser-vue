@@ -1,7 +1,7 @@
 <template>
     <div>
       <p>Text</p>
-        <input @input="onInput" >
+        <input @input="onInput" />
     </div>
 </template>
 
