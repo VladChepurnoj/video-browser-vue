@@ -1,0 +1,17 @@
+<template>
+    <ul>
+        Video list
+    </ul>
+</template>
+
+<script>
+
+export default {
+    name: 'VideoList'
+}
+</script>
+
+
+<style>
+
+</style>

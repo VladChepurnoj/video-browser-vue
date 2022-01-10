@@ -1,7 +1,7 @@
-import { createApp } from "vue";
+import Vue from "vue";
 import App from "./App";
 
-createApp({
+new Vue({
   el: "#app",
   render: (h) => h(App),
 });
