@@ -1,0 +1,11 @@
+<template>
+    <li>
+        Videolistitem
+    </li>
+</template>
+
+<script>
+export default {
+    name:'VideoListItem'
+}
+</script>
